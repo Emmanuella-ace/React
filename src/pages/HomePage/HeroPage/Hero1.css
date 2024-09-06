@@ -1,0 +1,47 @@
+.container{
+
+    background-image: url("../../../Images/hero.png");
+    height: 500px;
+    background-size: contain;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 30px;
+}
+
+.containerHolder{
+    background-color: #FFF3E3;
+    height: 300px;
+    width: 40%;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+
+    h1{
+      font-size: 60px;
+      color: #b88e2f ;
+      margin: 0;
+      line-height: 60px;
+    }
+
+    h2{
+        margin: 0;
+    }
+
+    p{
+        margin: 0;
+    }
+
+    button{
+        background-color: #b88e2f;
+        width: 200px;
+        border: none;
+        outline: none;
+        padding: 20px 10px;
+        border-radius: 10px;
+    }
+}

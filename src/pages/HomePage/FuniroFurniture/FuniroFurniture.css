@@ -1,0 +1,103 @@
+.furnitureContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.furnitureBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.furniturePictures {
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.funiroPic1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   position: absolute;
+   top: 488%;
+   left: 10px;
+}
+
+.funiroPic2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 497.8%;
+    left: 6.5%;
+}
+
+.funiroPic3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 543%;
+    left: 0.7%;
+}
+
+.funiroPic4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 543%;
+    left: 13.5%;
+}
+
+.funiroPic5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 510%;
+    left: 37%;
+}
+
+.funiroPic6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    position: absolute;
+    top: 497.8%;
+    right: 23.5%;
+}
+
+.funiroPic7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    position: absolute;
+    top: 488%;
+    right: 3%;
+}
+
+.funiroPic8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 550%;
+    right: 30.82022%;
+}
+
+.funiroPic9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+     top: 550%;
+    right: 10%;
+}
